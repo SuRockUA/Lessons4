@@ -16,9 +16,12 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2xGkSTWr2bzHc346glvRy5rL4GD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,6 +32,7 @@
     ".NET Project.Lessons4-1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747571798163</updated>
       <workItem from="1747571799480" duration="490000" />
+      <workItem from="1747584411677" duration="4000" />
     </task>
     <servers />
   </component>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seoma\\RiderProjects\\Varto\\Lessons4-2\\Lessons4-2\\Lessons4-2.csproj",
+      "projectUniqueName": "C:\\Users\\seoma\\RiderProjects\\Varto\\Lessons4\\Lessons4-2\\Lessons4-2\\Lessons4-2.csproj",
       "projectName": "Lessons4-2",
-      "projectPath": "C:\\Users\\seoma\\RiderProjects\\Varto\\Lessons4-2\\Lessons4-2\\Lessons4-2.csproj",
+      "projectPath": "C:\\Users\\seoma\\RiderProjects\\Varto\\Lessons4\\Lessons4-2\\Lessons4-2\\Lessons4-2.csproj",
       "packagesPath": "C:\\Users\\seoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seoma\\RiderProjects\\Varto\\Lessons4-2\\Lessons4-2\\obj\\",
+      "outputPath": "C:\\Users\\seoma\\RiderProjects\\Varto\\Lessons4\\Lessons4-2\\Lessons4-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\seoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
